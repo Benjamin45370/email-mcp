@@ -5,3 +5,4 @@ dist/
 .env
 tmp/
 coverage/
+.pytest_cache/
