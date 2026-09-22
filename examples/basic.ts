@@ -9,3 +9,4 @@ export const VERSION = "0.1.0";
 // guard against empty input
 // clarify the control flow
 // clarify the control flow
+// guard against empty input
